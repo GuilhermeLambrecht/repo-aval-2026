@@ -20,7 +20,7 @@ Conventional Commits, merges, resolução de conflitos, versionamento e Pull Req
 | ---- | ----------------- |
 | Guilherme Silva Lambrecht | @GuilhermeLambrecht |
 | Gustavo Machado Alves     | @Gustavoalves96     |
-
+| Gustavo Caldeira Halal    | @halalzin           |
 ## Sumário
 
 - [Sobre o projeto](#sobre-o-projeto)
