@@ -19,6 +19,7 @@ Conventional Commits, merges, resolução de conflitos, versionamento e Pull Req
 | Nome | Usuário do GitHub |
 | ---- | ----------------- |
 | Guilherme Silva Lambrecht | @GuilhermeLambrecht |
+| Gustavo Machado Alves     | @Gustavoalves96     |
 
 ## Sumário
 
