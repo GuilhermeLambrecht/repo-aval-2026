@@ -57,3 +57,13 @@ export function obterSituacao(media) {
 
   return 'Reprovado';
 }
+
+/**
+ * Formata a média com uma casa decimal e vírgula como separador.
+ *
+ * @param {number} media
+ * @returns {string} por exemplo, "7,7"
+ */
+export function formatarMedia(media) {
+  return media.toFixed(1).replace('.', ',');
+}
